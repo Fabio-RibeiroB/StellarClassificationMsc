@@ -22,7 +22,8 @@ a classifier.
 * model/ contains script to load my recommended model
 
 ## Project Workflow and Dissertation Overview:
-![Project Workflow](img/pipeline.png){width=50%}
+<img src="img/pipeline.png" alt="Project Workflow" width="200"/>
+
 
 Model too large to push to GitHub so can dowload here:
 https://drive.google.com/drive/folders/1a0T1jDLMTgfBx1qavTaVnuLmL8G4ydKr?usp=sharing
