@@ -1,4 +1,6 @@
-# Astronomical Object Classification from The Sloan Digital Sky Survey's Seventeenth Data Release ## Intro
+# Astronomical Object Classification from The Sloan Digital Sky Survey's Seventeenth Data Release 
+
+## Intro
 This repo is for my Data Science MSc dissertation on exploratory  data analysis and classification of the SDSS DR17.
 
 SDSS DR17 is the latest data release from a sky survey. Sky surveys catalogue objects in the Univserse.
