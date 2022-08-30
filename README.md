@@ -24,6 +24,7 @@ a classifier.
 ## Project Workflow and Dissertation Overview:
 <img src="img/pipeline.png" alt="Project Workflow" width="400"/>
 
+Model is saved as a tgz file that needs to be extracted before use.
 
-Model too large to push to GitHub so can dowload here:
-https://drive.google.com/drive/folders/1a0T1jDLMTgfBx1qavTaVnuLmL8G4ydKr?usp=sharing
+Example of using the `StellarPredictRFC.py` to load the `finalised_model.sav` and `star_classification.csv` data:
+<img src="img/screenshotofstellarrfc.png" alt="Running the model" widht="400/>
