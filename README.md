@@ -1,5 +1,4 @@
-# Astronomical Object Classification from The Sloan Digital Sky Survey's Seventeenth Data Release
-## Intro
+# Astronomical Object Classification from The Sloan Digital Sky Survey's Seventeenth Data Release ## Intro
 This repo is for my Data Science MSc dissertation on exploratory  data analysis and classification of the SDSS DR17.
 
 SDSS DR17 is the latest data release from a sky survey. Sky surveys catalogue objects in the Univserse.
@@ -27,4 +26,4 @@ a classifier.
 Model is saved as a tgz file that needs to be extracted before use.
 
 Example of using the `StellarPredictRFC.py` to load the `finalised_model.sav` and `star_classification.csv` data:
-<img src="img/screenshotofstellarrfc.png" alt="Running the model" widht="400/>
+<img src="img/screenshotofstellarrfc.png" alt="Running the model"/>
